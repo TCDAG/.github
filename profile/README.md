@@ -1,8 +1,10 @@
-<p>
+<p align="center">
     <img src="https://github.com/GeostatsGuy/GeostatsPy/blob/master/TCG_color_logo.png" width="220" height="200" />
 </p>
 
 # Texas Center for Data Analytics and Geostatistics
+
+<!--- 
 
 ## Professor Michael Pyrcz, The University of Texas at Austin
 *Novel Data Analytics, Geostatistics and Machine Learning Subsurface Solutions*
@@ -28,3 +30,5 @@ I hope this content is helpful to those that want to learn more about subsurface
 I'm always happy to discuss,
 
 *Michael*
+
+--->
