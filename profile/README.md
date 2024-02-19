@@ -2,7 +2,7 @@
     <img src="https://github.com/GeostatsGuy/GeostatsPy/blob/master/TCG_color_logo.png" width="220" height="200" />
 </p>
 
-# Texas Center for Data Analytics and Geostatistics
+<h1 align="center"> Texas Center for Data Analytics and Geostatistics </h1>
 
 <!--- 
 
