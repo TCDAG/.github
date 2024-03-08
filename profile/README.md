@@ -4,31 +4,32 @@
 
 <h1 align="center"> Texas Center for Data Analytics and Geostatistics </h1>
 
-<!--- 
 
-## Professor Michael Pyrcz, The University of Texas at Austin
-*Novel Data Analytics, Geostatistics and Machine Learning Subsurface Solutions*
+This GitHub Organization serves as a central hub for all projects and repositories related to the work at the Texas Center for Data Analytics and Geostatistics. Our mission is to develop novel technologies, practical workflows, demonstrations and documentation to support the digital revolution in energy.
 
-With over 17 years of experience in subsurface consulting, research and development, Michael has returned to academia driven by his passion for teaching and enthusiasm for enhancing engineers' and geoscientists' impact in subsurface resource development. 
 
-For more about Michael check out these links:
 
-#### [Twitter](https://twitter.com/geostatsguy) | [GitHub](https://github.com/GeostatsGuy) | [Website](http://michaelpyrcz.com) | [GoogleScholar](https://scholar.google.com/citations?user=QVZ20eQAAAAJ&hl=en&oi=ao) | [Book](https://www.amazon.com/Geostatistical-Reservoir-Modeling-Michael-Pyrcz/dp/0199731446) | [YouTube](https://www.youtube.com/channel/UCLqEr-xV-ceHdXXXrTId5ig)  | [LinkedIn](https://www.linkedin.com/in/michael-pyrcz-61a648a1)
 
-***
+**Current Members:**
 
-#### Want to Work Together?
+Mide Mabadeje, Jose Hernandez, Lei Liu, Elnara Rustamzade, Misael Morales, Fehmi Ozbayrak, Laaiba Akmal, Nataly Chacon, Aun Al-Gaithi, Ahmed Merzoug.
 
-I hope this content is helpful to those that want to learn more about subsurface modeling, data analytics and machine learning. Students and working professionals are welcome to participate.
 
-* Want to invite me to visit your company for training, mentoring, project review, workflow design and / or consulting? I'd be happy to drop by and work with you! 
 
-* Interested in partnering, supporting my graduate student research or my Subsurface Data Analytics and Machine Learning consortium (co-PIs including Profs. Foster, Torres-Verdin and van Oort)? My research combines data analytics, stochastic modeling and machine learning theory with practice to develop novel methods and workflows to add value. We are solving challenging subsurface problems!
 
-* I can be reached at mpyrcz@austin.utexas.edu.
+**Contact:**
+
+We hope this content is helpful to those that want to learn more about subsurface modeling, data analytics and machine learning.
+
+I can be reached at mpyrcz@austin.utexas.edu
 
 I'm always happy to discuss,
 
 *Michael*
 
+
+
+
+<!--- 
+Comments
 --->
