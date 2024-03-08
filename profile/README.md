@@ -25,7 +25,7 @@ I can be reached at mpyrcz@austin.utexas.edu
 
 I'm always happy to discuss,
 
-*Michael*
+*Dr. Michael Pyrcz*
 
 
 
