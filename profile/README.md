@@ -12,8 +12,25 @@ This GitHub Organization serves as a central hub for all projects and repositori
 
 **Current Members:**
 
-Mide Mabadeje, Jose Hernandez, Lei Liu, Elnara Rustamzade, Misael Morales, Fehmi Ozbayrak, Laaiba Akmal, Nataly Chacon, Aun Al-Gaithi, Ahmed Merzoug.
+[Elnara Rustamzade](https://github.com/ElnaraRustamzade), 
+[Misael Morales](https://github.com/misaelmmorales), 
+[Laaiba Akmal](https://github.com/laaibaakmal), 
+[Nataly Chacon](https://github.com/chaconnb), 
+Aun Al-Gaithi, 
+[Ahmed Merzoug](https://github.com/AhmedMerz).
 
+**Alumni:**
+
+[Mide Mabadeje](https://github.com/Mide478), 
+[Jose Hernandez](https://github.com/JoseLuisHerme), 
+[Lei Liu](https://github.com/LeiLiu-cloud), 
+[Fehmi Ozbayrak](https://github.com/fozba), 
+[Julian Salazar](https://github.com/julianslz), 
+[Eduardo Maldonado-Cruz](https://github.com/emaldonadocruz), 
+Wendi Liu, 
+Wen Pan, 
+[Javier Santos](https://github.com/je-santos), 
+[Honggeun Jo](https://github.com/geomodeller).
 
 
 
