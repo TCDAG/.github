@@ -17,7 +17,12 @@ This GitHub Organization serves as a central hub for all projects and repositori
 [Laaiba Akmal](https://github.com/laaibaakmal), 
 [Nataly Chacon](https://github.com/chaconnb), 
 Aun Al-Gaithi, 
-[Ahmed Merzoug](https://github.com/AhmedMerz).
+[Ahmed Merzoug](https://github.com/AhmedMerz),
+Eldar Sharafutdinov,
+Yining Huang,
+Ryan McGuigan,
+Qianqian Zhou,
+[Dinghan Wang](https://github.com/dinghanwang),
 
 **Alumni:**
 
