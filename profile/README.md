@@ -19,6 +19,7 @@ This GitHub Organization serves as a central hub for all projects and repositori
 Aun Al-Gaithi, 
 [Ahmed Merzoug](https://github.com/AhmedMerz),
 Eldar Sharafutdinov,
+Deena Elhossary,
 Yining Huang,
 Ryan McGuigan,
 Qianqian Zhou,
